@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from os import path
 import sys
-
+import tkinter
 project_dir = path.dirname(__file__)
 project_dir = path.join('..')
 sys.path.append(project_dir)
